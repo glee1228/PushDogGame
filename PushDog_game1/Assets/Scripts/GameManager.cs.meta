@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 1c74008ab8499354b9f32c1bbbb560cf
+timeCreated: 1512093974
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - mainbackgroundsound: {fileID: 8300000, guid: 7136f8d983297d84a8ad12ca7f8efc7d,
+      type: 3}
+  - nextstagesound: {fileID: 8300000, guid: e7364a2e1be592d42a07fba143fda4c4, type: 3}
+  - gameoversound: {fileID: 8300000, guid: f0d7aac6421ba964aaee14a90d11c924, type: 3}
+  - m_LevelBuilder: {instanceID: 0}
+  - mainlevelText: {instanceID: 0}
+  - levelText: {instanceID: 0}
+  - timeText: {instanceID: 0}
+  - scoreText: {instanceID: 0}
+  - scoreminusText: {instanceID: 0}
+  - timeplusText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
